@@ -1,6 +1,7 @@
-''' S02Q01 - Car Milege '''
-
-''' Formula: Car mileage = No. of Kms/ Quantity Of Fuel Used '''
+''' 
+    S02Q01 - Car Milege
+    Formula: Car mileage = No. of Kms/ Quantity Of Fuel Used 
+'''
 
 def milege(start, current, fuel):
 
